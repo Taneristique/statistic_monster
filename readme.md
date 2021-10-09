@@ -27,7 +27,7 @@ When you do this operation you can easily get data from Binance via this applica
 
 Run the following line in the terminal: pip install -r requirements.txt.
 
-## REQUIREMENTS ```
+## REQUIREMENTS 
 
 # Modules:
 
@@ -40,7 +40,7 @@ pyfiglet==0.8.post1]
 
 # Python Version
 
-python>=3.x ```
+python>=3.x 
 
 ## Support the Project
 
