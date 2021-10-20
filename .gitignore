@@ -1,0 +1,6 @@
+#modules
+**/modules/.vscode/
+# Byte-compiled / optimized / DLL files
+/modules/__pycache__/
+*.py[cod]
+*$py.class
