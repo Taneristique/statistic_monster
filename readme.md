@@ -28,6 +28,23 @@ Lastly codes are provided in both form as python file and interactive python jup
 
 # HOW TO USE IT 
 
-All you have to do putting config.json to your api_key and api_secret after you got api from binance to be able to use croquis template and calculating z-scores but you can directly calculate the interest.You can use croquis template in your project as respecting MIT license and also including following info for MPL/2.0 license :
+All you have to do putting config.json to your api_key and api_secret after you got api from binance to be able to use croquis template and calculating z-scores but you can directly calculate the interest.To use it with normal python all you have to do is writing python main.py on terminal.
+You can use croquis template in your project as respecting MIT license and also including following info for MPL/2.0 license :
 """// This source code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
 // © Taneristique"""
+
+# DEPENDENCIES
+
+[python-binance2==1.0.13
+openpyxl==3.0.9
+pandas==1.3.3
+numpy==1.21.2
+matplotlib==3.4.3
+pyfiglet==0.8.post1
+plotly==5.3.1
+scipy==1.6.1]
+
+# TO INSTALL DEPENDENCIES 
+
+Run the following line in the terminal: pip install -r requirements.txt.
+
